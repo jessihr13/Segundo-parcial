@@ -1,4 +1,4 @@
-Carpeta de estructuras de datos
-Burbuja
-Merge sort
-Quick sort
+Programas del segundo parcial
+- Estructuras de datos (pila, cola, lista)
+- Ordenamientos (burbuja, merge, quick)
+- Implementados en C++ con POO
